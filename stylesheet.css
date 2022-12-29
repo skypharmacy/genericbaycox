@@ -69,15 +69,19 @@
     border-top:1px solid #eee;
   }
   
+.message-wrapper img{
+  width:300px;
+}
   
   footer img{
     width:124px;
     font-size:12px;
     padding-top:10px;
-    height:65px;
-  
+    height:65px;  
   }
   
+
+
   footer p{
     font-size:12px;
     color:#b3aeb5;
